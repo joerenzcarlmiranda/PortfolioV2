@@ -1,0 +1,6 @@
+{
+  "name": "JoerenzDev Portfolio",
+  "description": "A modern portfolio for JoerenzDev featuring animated components, live backgrounds, and tech stack showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
