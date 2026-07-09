@@ -45,7 +45,7 @@ const projectsData: PortfolioItem[] = [
       "/madrid3.png",
       "/madrid4.png",
     ],
-    longDescription: "Madrid Barbershop Suite is a full-featured business management platform that handles everything from appointment bookings and staff scheduling to inventory management and customer relationships. It streamlines day-to-day operations with an intuitive, clean interface.",
+    longDescription: "FadeLab Barbershop Suite is a full-featured business management platform that handles everything from appointment bookings and staff scheduling to inventory management and customer relationships. It streamlines day-to-day operations with an intuitive, clean interface.",
     technologies: ["Laravel", "PHP", "JavaScript","Livewire", "HTML", "CSS"],
   },
   {
